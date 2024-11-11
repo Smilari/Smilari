@@ -14,7 +14,7 @@
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,express,figma,github,html,java,js,linux,mongodb,mysql,nodejs,postman,react,tailwind,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,linux,html,css,js,ts,nodejs,express,react,astro,tailwind,c,java,spring,mongodb,mysql&perline=8" />
   </a>
 </p>
 
